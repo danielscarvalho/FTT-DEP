@@ -18,4 +18,4 @@ Criando WEB API com Java Servlet em 2 minutos!!!
 
 ---
 
-<img src="WebContent/img/meme-java-verboso.jpg">
+<img src="/WebContent/img/meme-java-verboso.jpg">
