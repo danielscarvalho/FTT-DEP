@@ -15,3 +15,7 @@ Criando WEB API com Java Servlet em 2 minutos!!!
 - Postman
 - Firefox
 - Linux
+
+---
+
+<img src="src/img/meme-java-verboso.jpg">
