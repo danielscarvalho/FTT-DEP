@@ -6,7 +6,7 @@ Java WEB API - Servlet
 Criando WEB API com Java Servlet em 2 minutos!!!
 
 - Java
-- Serlvet
+- Servlet
 - Apache Tomcat
 - JSP
 - HTML
